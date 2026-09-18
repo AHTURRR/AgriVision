@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision - Visualisasi & Diagnosa Daun Tani",
+  "description": "Aplikasi inspeksi penyakit daun tanaman dan visualisasi data real-time D3.js dengan autentikasi OAuth2, ekspor PDF/CSV, dan panduan cerdas petani.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
